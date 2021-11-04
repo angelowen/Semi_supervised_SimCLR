@@ -3,6 +3,7 @@
 https://bbs.cvmart.net/articles/4950
 
 ## Dataset
+link: [https://drive.google.com/file/d/1GJEvPH5vuQUq0Sj4b09tqsVNk10uSalq/view?usp=sharing]
 比賽數據集，
 * 4500 張Unlabled圖片
 * 600 張labeled圖片，包含 12 類物體的圖片，每類50張
